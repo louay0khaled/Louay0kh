@@ -1,0 +1,5 @@
+{
+  "name": "Accounting Pro AI",
+  "description": "An AI-powered accounting application for managing products, inventory, customers, and sales, featuring AI-generated product images, smart inventory sorting, and an integrated currency exchange rate checker.",
+  "requestFramePermissions": []
+}
